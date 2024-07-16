@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eretherce.github.io/sitemap
+Sitemap: https://eretherce.github.io/app/sitemap
+Sitemap: https://eretherce.github.io/assets/sitemap
+Sitemap: https://eretherce.github.io/css/sitemap
+Sitemap: https://eretherce.github.io/includes/sitemap
+Sitemap: https://eretherce.github.io/item/sitemap
+Sitemap: https://eretherce.github.io/src/sitemap
